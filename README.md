@@ -1,3 +1,6 @@
+# Internship-Report_RM
+Internship report on web application development and IT infrastructure at SONATRACH Adrar Refinery, using Django, Python, and SQLite.
+
 # SONATRACH Internship Report — Web Development & IT Infrastructure
 
 ## Overview
